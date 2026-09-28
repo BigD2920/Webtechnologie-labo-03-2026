@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.big {
+    font-size: 32px;
+}
+.bold {
+    font-weight: bold;
+}
+.red {
+    color: red;
+}
+
+* Zorg er nu voor dat de volgende woorden de class `big` krijgen:
+  * regenachtige avond
+  * programmeen
+* Zorg er voor dat de volgende woorden de class `bold` krijgen:
+  * puzzel in plaats van een probleem
+* Zorg er voor dat de volgende woorden de class `red` krijgen:
+  * verbond
+  * webapp
+* Zorg er voor dat deze tekst zowel de classes `big`, `red` als `bold` krijgt:
+  * bruggen tussen mensen
+
+> Tip: met een `span`-tag kan je een deel van de tekst in een `p`-tag selecteren en daar een class aan toevoegen.
